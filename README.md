@@ -2,7 +2,7 @@
 
 **Software Engineer & Applied AI** · Kraków, Poland 🇵🇱
 
-Dual master's student at **AGH University of Science and Technology** — M.Eng. in Computer Science - Machine Learning & Artificial Intelligence and M.S. in Social Informatics - AI & Data Mining. I like building things that turn messy data into real decisions.
+Dual master's student at **AGH University of Science and Technology** — M.Eng. in Computer Science - Machine Learning & Artificial Intelligence and M.S. in Social Informatics - AI & Data Mining. I build things that turn messy data into real decisions.
 
 ---
 
