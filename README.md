@@ -46,6 +46,12 @@ Dual master's student at **AGH University of Science and Technology** — M.Eng.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+ 
+### Top Languages
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=default&hide_border=true)
+ 
+---
 
 ### Let's connect
 
