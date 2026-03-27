@@ -49,7 +49,7 @@ Dual master's student at **AGH University of Science and Technology** — M.Eng.
  
 ### Top Languages
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
