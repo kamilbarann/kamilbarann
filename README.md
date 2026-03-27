@@ -1,8 +1,12 @@
-# Hey, I'm Kamil 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Kamil+%F0%9F%91%8B;Software+Engineer+%26+Applied+AI;Building+things+that+matter.)](https://git.io/typing-svg)
 
 **Software Engineer & Applied AI** · Kraków, Poland 🇵🇱
 
-Dual master's student at **AGH University of Science and Technology** — M.Eng. in Computer Science - Machine Learning & Artificial Intelligence and M.S. in Social Informatics - AI & Data Mining. I build things that turn messy data into real decisions.
+Dual master's student at **AGH University of Science and Technology** — M.Eng. in Computer Science · Machine Learning & Artificial Intelligence and M.S. in Social Informatics · AI & Data Mining. I build things that turn messy data into real decisions.
+
+</div>
 
 ---
 
@@ -10,8 +14,8 @@ Dual master's student at **AGH University of Science and Technology** — M.Eng.
 
 - 🧠 Applied ML, reinforcement learning & NLP
 - 🔍 Information retrieval, RAG systems & LLM evaluation
-- 🛰️ Defense tech - AI for national security, autonomous systems & intelligence analysis
-- 🏛️ Computational social science - information integrity, misinformation detection & AI for public institutions
+- 🛰️ Defense tech — AI for national security, autonomous systems & intelligence analysis
+- 🏛️ Computational social science — information integrity, misinformation detection & AI for public institutions
 - ☁️ Cloud-native data pipelines & data-driven product development
 
 ### What I work with
@@ -46,14 +50,30 @@ Dual master's student at **AGH University of Science and Technology** — M.Eng.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
- 
-### Top Languages
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook&title_color=58a6ff&text_color=c9d1d9)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-gamma-22.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sable-gamma-22.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" />
+  <img alt="Top Languages" src="https://github-readme-stats-sable-gamma-22.vercel.app/api/top-langs/?username=kamilbarann&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook" />
+</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kamilbarann&theme=tokyonight&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kamilbarann&theme=default&hide_border=true&background=00000000" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=kamilbarann&theme=tokyonight&hide_border=true&background=00000000" />
+</picture>
+
+</div>
 
 ---
 
 ### Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilbarann/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kambaran02@gmail.com)
+<a href="https://www.linkedin.com/in/kamilbarann/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:kambaran02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
