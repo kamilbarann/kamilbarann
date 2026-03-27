@@ -8,8 +8,10 @@ Dual master's student at **AGH University of Science and Technology** — M.Eng.
 
 ### What I'm into
 
-\n🧠 Applied ML, reinforcement learning & NLP
-\n🔍 Information retrieval, RAG systems & LLM evaluation
+🧠 Applied ML, reinforcement learning & NLP
+
+🔍 Information retrieval, RAG systems & LLM evaluation
+
 🛰️ Defense tech - AI for national security, autonomous systems & intelligence analysis
 🏛️ Computational social science - information integrity, misinformation detection & AI for public institutions
 ☁️ Cloud-native data pipelines & data-driven product development
